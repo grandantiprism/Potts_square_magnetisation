@@ -1,0 +1,48 @@
+{
+  "buildCommand" : {
+    "command" : "prepareForIndexing",
+    "enableIndexBuildArena" : true,
+    "targets" : null
+  },
+  "configuredTargets" : [
+    {
+      "guid" : "29f5493becc91a76ac34c3be0c2ecd9fdb12fde704b4f676f89f97ff273aac8d"
+    }
+  ],
+  "containerPath" : "/Users/akihisatateishi/Library/CloudStorage/Dropbox/AT_sub-main/Xcode/Potts_square_magnetisation/Potts_square_magnetisation.xcodeproj",
+  "continueBuildingAfterErrors" : true,
+  "dependencyScope" : "workspace",
+  "enableIndexBuildArena" : false,
+  "hideShellScriptEnvironment" : false,
+  "parameters" : {
+    "action" : "indexbuild",
+    "arenaInfo" : {
+      "buildIntermediatesPath" : "/Users/akihisatateishi/Library/CloudStorage/Dropbox/AT_sub-main/Xcode/Potts_square_magnetisation/DerivedData/Potts_square_magnetisation/Index.noindex/Build/Intermediates.noindex",
+      "buildProductsPath" : "/Users/akihisatateishi/Library/CloudStorage/Dropbox/AT_sub-main/Xcode/Potts_square_magnetisation/DerivedData/Potts_square_magnetisation/Index.noindex/Build/Products",
+      "derivedDataPath" : "/Users/akihisatateishi/Library/CloudStorage/Dropbox/AT_sub-main/Xcode/Potts_square_magnetisation/DerivedData",
+      "indexDataStoreFolderPath" : "/Users/akihisatateishi/Library/CloudStorage/Dropbox/AT_sub-main/Xcode/Potts_square_magnetisation/DerivedData/Potts_square_magnetisation/Index.noindex/DataStore",
+      "indexEnableDataStore" : true,
+      "indexPCHPath" : "/Users/akihisatateishi/Library/CloudStorage/Dropbox/AT_sub-main/Xcode/Potts_square_magnetisation/DerivedData/Potts_square_magnetisation/Index.noindex/PrecompiledHeaders",
+      "indexRegularBuildIntermediatesPath" : "/Users/akihisatateishi/Library/CloudStorage/Dropbox/AT_sub-main/Xcode/Potts_square_magnetisation/DerivedData/Potts_square_magnetisation/Build/Intermediates.noindex",
+      "indexRegularBuildProductsPath" : "/Users/akihisatateishi/Library/CloudStorage/Dropbox/AT_sub-main/Xcode/Potts_square_magnetisation/DerivedData/Potts_square_magnetisation/Build/Products",
+      "pchPath" : "/Users/akihisatateishi/Library/CloudStorage/Dropbox/AT_sub-main/Xcode/Potts_square_magnetisation/DerivedData/Potts_square_magnetisation/Index.noindex/Build/Intermediates.noindex/PrecompiledHeaders"
+    },
+    "configurationName" : "Debug",
+    "overrides" : {
+      "synthesized" : {
+        "table" : {
+          "ENABLE_PREVIEWS" : "NO",
+          "ENABLE_XOJIT_PREVIEWS" : "NO",
+          "ONLY_ACTIVE_ARCH" : "YES"
+        }
+      }
+    }
+  },
+  "qos" : "utility",
+  "schemeCommand" : "launch",
+  "showNonLoggedProgress" : true,
+  "useDryRun" : false,
+  "useImplicitDependencies" : true,
+  "useLegacyBuildLocations" : false,
+  "useParallelTargets" : true
+}

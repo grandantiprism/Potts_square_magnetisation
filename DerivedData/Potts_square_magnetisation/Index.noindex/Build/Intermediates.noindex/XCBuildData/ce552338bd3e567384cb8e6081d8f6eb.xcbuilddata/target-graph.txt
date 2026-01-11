@@ -1,0 +1,2 @@
+Target dependency graph (1 target)
+Target 'Potts_square_magnetisation' in project 'Potts_square_magnetisation' (no dependencies)

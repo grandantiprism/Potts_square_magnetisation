@@ -1,0 +1,8 @@
+--- Potts Model Simulation Log ---
+Date: Sun Jan 11 14:30:29 2026
+Q (States): 3
+L: 4, MCS: 1000000, THERM: 80
+Beta range: 0.9 to 1.1 (Steps: 20)
+Elapsed time: 87.05 seconds
+----------------------------------
+
