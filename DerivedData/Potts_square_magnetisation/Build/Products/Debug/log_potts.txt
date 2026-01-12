@@ -6,3 +6,115 @@ Beta range: 0.9 to 1.1 (Steps: 20)
 Elapsed time: 87.05 seconds
 ----------------------------------
 
+--- Potts Model Simulation Log ---
+Date: Sun Jan 11 14:43:54 2026
+Q (States): 3
+L: 8, MCS: 1000000, THERM: 160
+Beta range: 0.9 to 1.1 (Steps: 20)
+Elapsed time: 219.04 seconds
+----------------------------------
+
+--- Potts Model Simulation Log ---
+Date: Sun Jan 11 14:59:19 2026
+Q (States): 3
+L: 16, MCS: 1000000, THERM: 320
+Beta range: 0.9 to 1.1 (Steps: 20)
+Elapsed time: 559.33 seconds
+----------------------------------
+
+--- Potts Model Simulation Log ---
+Date: Sun Jan 11 16:46:40 2026
+Q (States): 3
+L: 64, MCS: 1000000, THERM: 1280
+Beta range: 0.9 to 1.1 (Steps: 20)
+Elapsed time: 6066.58 seconds
+----------------------------------
+
+--- Potts Model Simulation Log ---
+Date: Sun Jan 11 20:42:39 2026
+Q (States): 3
+L: 32, MCS: 1000000, THERM: 640
+Beta range: 0.9 to 1.1 (Steps: 20)
+Elapsed time: 1696.12 seconds
+----------------------------------
+
+--- Potts Model Simulation Log ---
+Date: Sun Jan 11 23:35:50 2026
+Q (States): 3
+L: 64, MCS: 1000000, THERM: 1280
+Beta range: 0.98 to 1.02 (Steps: 20)
+Elapsed time: 5138.93 seconds
+----------------------------------
+
+--- Potts Model Simulation Log ---
+Date: Mon Jan 12 01:05:37 2026
+Q (States): 3
+L: 32, MCS: 1000000, THERM: 640
+Beta range: 0.98 to 1.02 (Steps: 20)
+Elapsed time: 1994.48 seconds
+----------------------------------
+
+--- Potts Model Simulation Log ---
+Date: Mon Jan 12 06:34:32 2026
+Q (States): 3
+L: 128, MCS: 1000000, THERM: 2560
+Beta range: 0.98 to 1.02 (Steps: 20)
+Elapsed time: 19249.21 seconds
+----------------------------------
+
+--- Potts Model Simulation Log ---
+Date: Mon Jan 12 19:02:32 2026
+Q (States): 3
+L: 128, MCS: 1000000, THERM: 2560
+Beta range: 0.995 to 1.015 (Steps: 20)
+Elapsed time: 23420.65 seconds
+----------------------------------
+
+--- Potts Model Simulation Log ---
+Date: Mon Jan 12 21:00:58 2026
+Q (States): 3
+L: 64, MCS: 1000000, THERM: 1280
+Beta range: 0.995 to 1.015 (Steps: 20)
+Elapsed time: 6997.13 seconds
+----------------------------------
+
+--- Potts Model Simulation Log ---
+Date: Mon Jan 12 21:36:44 2026
+Q (States): 3
+L: 32, MCS: 1000000, THERM: 640
+Beta range: 0.995 to 1.015 (Steps: 20)
+Elapsed time: 2063.59 seconds
+----------------------------------
+
+--- Potts Model Simulation Log ---
+Date: Mon Jan 12 21:51:13 2026
+Q (States): 3
+L: 16, MCS: 1000000, THERM: 320
+Beta range: 0.995 to 1.015 (Steps: 20)
+Elapsed time: 701.93 seconds
+----------------------------------
+
+--- Potts Model Simulation Log ---
+Date: Mon Jan 12 21:55:09 2026
+Q (States): 3
+L: 8, MCS: 1000000, THERM: 160
+Beta range: 0.995 to 1.015 (Steps: 20)
+Elapsed time: 213.01 seconds
+----------------------------------
+
+--- Potts Model Simulation Log ---
+Date: Mon Jan 12 21:56:54 2026
+Q (States): 3
+L: 4, MCS: 1000000, THERM: 80
+Beta range: 0.995 to 1.015 (Steps: 20)
+Elapsed time: 85.79 seconds
+----------------------------------
+
+--- Potts Model Simulation Log ---
+Date: Tue Jan 13 03:13:25 2026
+Q (States): 4
+L: 128, MCS: 1000000, THERM: 2560
+Beta range: 1.088 to 1.108 (Steps: 20)
+Elapsed time: 18675.38 seconds
+----------------------------------
+

@@ -15,14 +15,14 @@ using namespace std;
 namespace fs = std::filesystem;
 
 // --- パラメータ設定 ---
-const int Q = 3;             // Potts状態数
-const int L = 8;            // 格子サイズ
+const int Q = 4;             // Potts状態数
+const int L = 128;            // 格子サイズ
 const int N = L * L;
 const int MCS = 1000000;     // 本測定のステップ数
 const int THERM = L * 20;    // 熱平衡化ステップ数
 
-const double beta_min = 0.9;
-const double beta_max = 1.1;
+const double beta_min = 1.088; // q=3 0.995
+const double beta_max = 1.108; // q=3 1.015
 const int num_beta = 20;
 
 struct Potts2D {
