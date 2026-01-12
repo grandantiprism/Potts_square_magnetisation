@@ -21,8 +21,8 @@ const int N = L * L;
 const int MCS = 1000000;     // 本測定のステップ数
 const int THERM = L * 20;    // 熱平衡化ステップ数
 
-const double beta_min = 1.088; // q=3 0.995
-const double beta_max = 1.108; // q=3 1.015
+const double beta_min = 1.095; // q=3 0.995
+const double beta_max = 1.105; // q=3 1.015
 const int num_beta = 20;
 
 struct Potts2D {
@@ -100,7 +100,7 @@ int main() {
 
         stringstream ss;
         ss << dir_name << "/beta_" << fixed << setprecision(5) << beta << ".txt";
-        ofstream ofs(ss.str());
+        ofstream ofs(ss.str(), ios::app);
         ofs << fixed << setprecision(15);
         
         cout << "Simulating q=" << Q << ", beta = " << beta << "..." << endl;
