@@ -1,0 +1,23 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "20A35A7C14D4E571B170E50E40FD3FB405FD9922",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "20A35A7C14D4E571B170E50E40FD3FB405FD9922" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "D374FC35-5FCD-4DF3-B7E6-D1819D7DF5B9",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "20A35A7C14D4E571B170E50E40FD3FB405FD9922" : "Potts_square_magnetisation\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "Potts_square_magnetisation",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "Potts_square_magnetisation.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/grandantiprism\/Potts_square_magnetisation.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "20A35A7C14D4E571B170E50E40FD3FB405FD9922"
+    }
+  ]
+}

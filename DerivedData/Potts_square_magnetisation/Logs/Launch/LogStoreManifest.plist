@@ -6,10 +6,10 @@
 	<integer>11</integer>
 	<key>logs</key>
 	<dict>
-		<key>1B26A7C6-CE96-4CEA-B859-1FD026B738B2</key>
+		<key>26341DC2-01E2-4D6B-B291-C249F7ABBFDD</key>
 		<dict>
 			<key>auxiliaryLogUniqueIdentifier</key>
-			<string>48F10F8A-90E7-4FF7-8690-1BEA7729F324</string>
+			<string>3158919C-0FC3-4050-9D87-BF03FFB5EE7D</string>
 			<key>auxiliaryObservable</key>
 			<dict>
 				<key>highLevelStatus</key>
@@ -30,7 +30,7 @@
 			<key>domainType</key>
 			<string>com.apple.dt.IDE.LaunchSchemeAction</string>
 			<key>fileName</key>
-			<string>Run-Potts_square_magnetisation-2026.01.12_00-32-20-+0900.xcresult</string>
+			<string>Run-Potts_square_magnetisation-2026.01.13_21-11-14-+0900.xcresult</string>
 			<key>hasAuxiliaryLog</key>
 			<true/>
 			<key>hasConsoleLog</key>
@@ -59,18 +59,18 @@
 			<key>signature</key>
 			<string>Run Potts_square_magnetisation</string>
 			<key>timeStartedRecording</key>
-			<real>789838340.91133904</real>
+			<real>789999074.99548602</real>
 			<key>timeStoppedRecording</key>
 			<real>0.0</real>
 			<key>title</key>
 			<string>Run Potts_square_magnetisation</string>
 			<key>uniqueIdentifier</key>
-			<string>1B26A7C6-CE96-4CEA-B859-1FD026B738B2</string>
+			<string>26341DC2-01E2-4D6B-B291-C249F7ABBFDD</string>
 		</dict>
-		<key>1EC0F9A9-1445-49A0-8FE5-330FA4EBC25C</key>
+		<key>5F6ADE37-E5FA-44DB-8636-91BD4AA34455</key>
 		<dict>
 			<key>auxiliaryLogUniqueIdentifier</key>
-			<string>BBC5F853-11EC-4622-B26C-2D6C8E53D415</string>
+			<string>C936EB10-12AC-4927-866F-FBDC3DACA2BD</string>
 			<key>auxiliaryObservable</key>
 			<dict>
 				<key>highLevelStatus</key>
@@ -91,7 +91,7 @@
 			<key>domainType</key>
 			<string>com.apple.dt.IDE.LaunchSchemeAction</string>
 			<key>fileName</key>
-			<string>Run-Potts_square_magnetisation-2026.01.11_14-40-13-+0900.xcresult</string>
+			<string>Run-Potts_square_magnetisation-2026.01.13_17-36-58-+0900.xcresult</string>
 			<key>hasAuxiliaryLog</key>
 			<true/>
 			<key>hasConsoleLog</key>
@@ -120,18 +120,18 @@
 			<key>signature</key>
 			<string>Run Potts_square_magnetisation</string>
 			<key>timeStartedRecording</key>
-			<real>789802813.20970798</real>
+			<real>789986218.15542495</real>
 			<key>timeStoppedRecording</key>
 			<real>0.0</real>
 			<key>title</key>
 			<string>Run Potts_square_magnetisation</string>
 			<key>uniqueIdentifier</key>
-			<string>1EC0F9A9-1445-49A0-8FE5-330FA4EBC25C</string>
+			<string>5F6ADE37-E5FA-44DB-8636-91BD4AA34455</string>
 		</dict>
-		<key>25B8B2D6-8A84-4943-8EAA-E24A677D9DE2</key>
+		<key>C5C2FDFB-F6B2-4C36-B0DA-6DF2EDA0F592</key>
 		<dict>
 			<key>auxiliaryLogUniqueIdentifier</key>
-			<string>3E95D41E-BB6F-442B-9EE5-108690BDA8CE</string>
+			<string>8E689C8A-F565-4475-A937-35EC14CE3292</string>
 			<key>auxiliaryObservable</key>
 			<dict>
 				<key>highLevelStatus</key>
@@ -152,7 +152,7 @@
 			<key>domainType</key>
 			<string>com.apple.dt.IDE.LaunchSchemeAction</string>
 			<key>fileName</key>
-			<string>Run-Potts_square_magnetisation-2026.01.11_20-14-17-+0900.xcresult</string>
+			<string>Run-Potts_square_magnetisation-2026.01.13_18-45-06-+0900.xcresult</string>
 			<key>hasAuxiliaryLog</key>
 			<true/>
 			<key>hasConsoleLog</key>
@@ -181,18 +181,18 @@
 			<key>signature</key>
 			<string>Run Potts_square_magnetisation</string>
 			<key>timeStartedRecording</key>
-			<real>789822857.60414803</real>
+			<real>789990306.54177904</real>
 			<key>timeStoppedRecording</key>
 			<real>0.0</real>
 			<key>title</key>
 			<string>Run Potts_square_magnetisation</string>
 			<key>uniqueIdentifier</key>
-			<string>25B8B2D6-8A84-4943-8EAA-E24A677D9DE2</string>
+			<string>C5C2FDFB-F6B2-4C36-B0DA-6DF2EDA0F592</string>
 		</dict>
-		<key>26E21F07-04AA-4A63-AC5F-0E61A5E025AF</key>
+		<key>C6A7E75E-0B88-4B03-9AEA-F52B3A793152</key>
 		<dict>
 			<key>auxiliaryLogUniqueIdentifier</key>
-			<string>C4F14FF5-7711-4BD8-B1FA-4C93915F4423</string>
+			<string>5205C44E-C4F4-41FA-ABBA-7E2CB01EE441</string>
 			<key>auxiliaryObservable</key>
 			<dict>
 				<key>highLevelStatus</key>
@@ -213,7 +213,7 @@
 			<key>domainType</key>
 			<string>com.apple.dt.IDE.LaunchSchemeAction</string>
 			<key>fileName</key>
-			<string>Run-Potts_square_magnetisation-2026.01.11_14-49-58-+0900.xcresult</string>
+			<string>Run-Potts_square_magnetisation-2026.01.13_22-22-37-+0900.xcresult</string>
 			<key>hasAuxiliaryLog</key>
 			<true/>
 			<key>hasConsoleLog</key>
@@ -242,684 +242,13 @@
 			<key>signature</key>
 			<string>Run Potts_square_magnetisation</string>
 			<key>timeStartedRecording</key>
-			<real>789803398.70725095</real>
+			<real>790003357.83032203</real>
 			<key>timeStoppedRecording</key>
 			<real>0.0</real>
 			<key>title</key>
 			<string>Run Potts_square_magnetisation</string>
 			<key>uniqueIdentifier</key>
-			<string>26E21F07-04AA-4A63-AC5F-0E61A5E025AF</string>
-		</dict>
-		<key>2A92798A-AC3E-40A6-90B7-AC53A8653471</key>
-		<dict>
-			<key>auxiliaryLogUniqueIdentifier</key>
-			<string>6AF1805F-969C-4A3C-BFE9-1B7333CF4034</string>
-			<key>auxiliaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>W</string>
-				<key>totalNumberOfAnalyzerIssues</key>
-				<integer>0</integer>
-				<key>totalNumberOfErrors</key>
-				<integer>0</integer>
-				<key>totalNumberOfTestFailures</key>
-				<integer>0</integer>
-				<key>totalNumberOfWarnings</key>
-				<integer>1</integer>
-			</dict>
-			<key>className</key>
-			<string>IDESchemeActionsInvocationRecord</string>
-			<key>documentTypeString</key>
-			<string>&lt;nil&gt;</string>
-			<key>domainType</key>
-			<string>com.apple.dt.IDE.LaunchSchemeAction</string>
-			<key>fileName</key>
-			<string>Run-Potts_square_magnetisation-2026.01.11_22-10-09-+0900.xcresult</string>
-			<key>hasAuxiliaryLog</key>
-			<true/>
-			<key>hasConsoleLog</key>
-			<true/>
-			<key>hasPrimaryLog</key>
-			<true/>
-			<key>primaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>W</string>
-				<key>totalNumberOfAnalyzerIssues</key>
-				<integer>0</integer>
-				<key>totalNumberOfErrors</key>
-				<integer>0</integer>
-				<key>totalNumberOfTestFailures</key>
-				<integer>0</integer>
-				<key>totalNumberOfWarnings</key>
-				<integer>1</integer>
-			</dict>
-			<key>schemeIdentifier-containerName</key>
-			<string>Potts_square_magnetisation project</string>
-			<key>schemeIdentifier-schemeName</key>
-			<string>Potts_square_magnetisation</string>
-			<key>schemeIdentifier-sharedScheme</key>
-			<integer>1</integer>
-			<key>signature</key>
-			<string>Run Potts_square_magnetisation</string>
-			<key>timeStartedRecording</key>
-			<real>789829809.71979797</real>
-			<key>timeStoppedRecording</key>
-			<real>0.0</real>
-			<key>title</key>
-			<string>Run Potts_square_magnetisation</string>
-			<key>uniqueIdentifier</key>
-			<string>2A92798A-AC3E-40A6-90B7-AC53A8653471</string>
-		</dict>
-		<key>32E509DB-2E51-44B3-9F5F-5B33A641FFA8</key>
-		<dict>
-			<key>auxiliaryLogUniqueIdentifier</key>
-			<string>330FAFB9-40C3-49D9-B3EE-2CDA7128C9FE</string>
-			<key>auxiliaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>W</string>
-				<key>totalNumberOfAnalyzerIssues</key>
-				<integer>0</integer>
-				<key>totalNumberOfErrors</key>
-				<integer>0</integer>
-				<key>totalNumberOfTestFailures</key>
-				<integer>0</integer>
-				<key>totalNumberOfWarnings</key>
-				<integer>1</integer>
-			</dict>
-			<key>className</key>
-			<string>IDESchemeActionsInvocationRecord</string>
-			<key>documentTypeString</key>
-			<string>&lt;nil&gt;</string>
-			<key>domainType</key>
-			<string>com.apple.dt.IDE.LaunchSchemeAction</string>
-			<key>fileName</key>
-			<string>Run-Potts_square_magnetisation-2026.01.12_22-02-07-+0900.xcresult</string>
-			<key>hasAuxiliaryLog</key>
-			<true/>
-			<key>hasConsoleLog</key>
-			<true/>
-			<key>hasPrimaryLog</key>
-			<true/>
-			<key>primaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>W</string>
-				<key>totalNumberOfAnalyzerIssues</key>
-				<integer>0</integer>
-				<key>totalNumberOfErrors</key>
-				<integer>0</integer>
-				<key>totalNumberOfTestFailures</key>
-				<integer>0</integer>
-				<key>totalNumberOfWarnings</key>
-				<integer>1</integer>
-			</dict>
-			<key>schemeIdentifier-containerName</key>
-			<string>Potts_square_magnetisation project</string>
-			<key>schemeIdentifier-schemeName</key>
-			<string>Potts_square_magnetisation</string>
-			<key>schemeIdentifier-sharedScheme</key>
-			<integer>1</integer>
-			<key>signature</key>
-			<string>Run Potts_square_magnetisation</string>
-			<key>timeStartedRecording</key>
-			<real>789915727.70453298</real>
-			<key>timeStoppedRecording</key>
-			<real>0.0</real>
-			<key>title</key>
-			<string>Run Potts_square_magnetisation</string>
-			<key>uniqueIdentifier</key>
-			<string>32E509DB-2E51-44B3-9F5F-5B33A641FFA8</string>
-		</dict>
-		<key>3861BCBF-E747-48EB-B615-0C99ED5C0EC1</key>
-		<dict>
-			<key>auxiliaryLogUniqueIdentifier</key>
-			<string>0B6B4BCD-D0D2-4AEE-81FD-5C8690F3F06D</string>
-			<key>auxiliaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>W</string>
-				<key>totalNumberOfAnalyzerIssues</key>
-				<integer>0</integer>
-				<key>totalNumberOfErrors</key>
-				<integer>0</integer>
-				<key>totalNumberOfTestFailures</key>
-				<integer>0</integer>
-				<key>totalNumberOfWarnings</key>
-				<integer>1</integer>
-			</dict>
-			<key>className</key>
-			<string>IDESchemeActionsInvocationRecord</string>
-			<key>documentTypeString</key>
-			<string>&lt;nil&gt;</string>
-			<key>domainType</key>
-			<string>com.apple.dt.IDE.LaunchSchemeAction</string>
-			<key>fileName</key>
-			<string>Run-Potts_square_magnetisation-2026.01.12_21-55-27-+0900.xcresult</string>
-			<key>hasAuxiliaryLog</key>
-			<true/>
-			<key>hasConsoleLog</key>
-			<true/>
-			<key>hasPrimaryLog</key>
-			<true/>
-			<key>primaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>W</string>
-				<key>totalNumberOfAnalyzerIssues</key>
-				<integer>0</integer>
-				<key>totalNumberOfErrors</key>
-				<integer>0</integer>
-				<key>totalNumberOfTestFailures</key>
-				<integer>0</integer>
-				<key>totalNumberOfWarnings</key>
-				<integer>1</integer>
-			</dict>
-			<key>schemeIdentifier-containerName</key>
-			<string>Potts_square_magnetisation project</string>
-			<key>schemeIdentifier-schemeName</key>
-			<string>Potts_square_magnetisation</string>
-			<key>schemeIdentifier-sharedScheme</key>
-			<integer>1</integer>
-			<key>signature</key>
-			<string>Run Potts_square_magnetisation</string>
-			<key>timeStartedRecording</key>
-			<real>789915327.61558294</real>
-			<key>timeStoppedRecording</key>
-			<real>0.0</real>
-			<key>title</key>
-			<string>Run Potts_square_magnetisation</string>
-			<key>uniqueIdentifier</key>
-			<string>3861BCBF-E747-48EB-B615-0C99ED5C0EC1</string>
-		</dict>
-		<key>3984EC55-D2A4-4E33-B031-1AF43D8D8078</key>
-		<dict>
-			<key>auxiliaryLogUniqueIdentifier</key>
-			<string>14FC68FF-00B0-4A51-A830-5ED2AF9D3269</string>
-			<key>auxiliaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>W</string>
-				<key>totalNumberOfAnalyzerIssues</key>
-				<integer>0</integer>
-				<key>totalNumberOfErrors</key>
-				<integer>0</integer>
-				<key>totalNumberOfTestFailures</key>
-				<integer>0</integer>
-				<key>totalNumberOfWarnings</key>
-				<integer>1</integer>
-			</dict>
-			<key>className</key>
-			<string>IDESchemeActionsInvocationRecord</string>
-			<key>documentTypeString</key>
-			<string>&lt;nil&gt;</string>
-			<key>domainType</key>
-			<string>com.apple.dt.IDE.LaunchSchemeAction</string>
-			<key>fileName</key>
-			<string>Run-Potts_square_magnetisation-2026.01.12_01-13-40-+0900.xcresult</string>
-			<key>hasAuxiliaryLog</key>
-			<true/>
-			<key>hasConsoleLog</key>
-			<true/>
-			<key>hasPrimaryLog</key>
-			<true/>
-			<key>primaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>W</string>
-				<key>totalNumberOfAnalyzerIssues</key>
-				<integer>0</integer>
-				<key>totalNumberOfErrors</key>
-				<integer>0</integer>
-				<key>totalNumberOfTestFailures</key>
-				<integer>0</integer>
-				<key>totalNumberOfWarnings</key>
-				<integer>1</integer>
-			</dict>
-			<key>schemeIdentifier-containerName</key>
-			<string>Potts_square_magnetisation project</string>
-			<key>schemeIdentifier-schemeName</key>
-			<string>Potts_square_magnetisation</string>
-			<key>schemeIdentifier-sharedScheme</key>
-			<integer>1</integer>
-			<key>signature</key>
-			<string>Run Potts_square_magnetisation</string>
-			<key>timeStartedRecording</key>
-			<real>789840820.40113103</real>
-			<key>timeStoppedRecording</key>
-			<real>0.0</real>
-			<key>title</key>
-			<string>Run Potts_square_magnetisation</string>
-			<key>uniqueIdentifier</key>
-			<string>3984EC55-D2A4-4E33-B031-1AF43D8D8078</string>
-		</dict>
-		<key>3CA411F7-3D69-43DC-98DA-7F0A37464AD3</key>
-		<dict>
-			<key>auxiliaryLogUniqueIdentifier</key>
-			<string>A190F1C9-A9D0-49C4-BF81-62BBE64841AE</string>
-			<key>auxiliaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>W</string>
-				<key>totalNumberOfAnalyzerIssues</key>
-				<integer>0</integer>
-				<key>totalNumberOfErrors</key>
-				<integer>0</integer>
-				<key>totalNumberOfTestFailures</key>
-				<integer>0</integer>
-				<key>totalNumberOfWarnings</key>
-				<integer>1</integer>
-			</dict>
-			<key>className</key>
-			<string>IDESchemeActionsInvocationRecord</string>
-			<key>documentTypeString</key>
-			<string>&lt;nil&gt;</string>
-			<key>domainType</key>
-			<string>com.apple.dt.IDE.LaunchSchemeAction</string>
-			<key>fileName</key>
-			<string>Run-Potts_square_magnetisation-2026.01.11_15-05-31-+0900.xcresult</string>
-			<key>hasAuxiliaryLog</key>
-			<true/>
-			<key>hasConsoleLog</key>
-			<true/>
-			<key>hasPrimaryLog</key>
-			<true/>
-			<key>primaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>W</string>
-				<key>totalNumberOfAnalyzerIssues</key>
-				<integer>0</integer>
-				<key>totalNumberOfErrors</key>
-				<integer>0</integer>
-				<key>totalNumberOfTestFailures</key>
-				<integer>0</integer>
-				<key>totalNumberOfWarnings</key>
-				<integer>1</integer>
-			</dict>
-			<key>schemeIdentifier-containerName</key>
-			<string>Potts_square_magnetisation project</string>
-			<key>schemeIdentifier-schemeName</key>
-			<string>Potts_square_magnetisation</string>
-			<key>schemeIdentifier-sharedScheme</key>
-			<integer>1</integer>
-			<key>signature</key>
-			<string>Run Potts_square_magnetisation</string>
-			<key>timeStartedRecording</key>
-			<real>789804331.61114001</real>
-			<key>timeStoppedRecording</key>
-			<real>0.0</real>
-			<key>title</key>
-			<string>Run Potts_square_magnetisation</string>
-			<key>uniqueIdentifier</key>
-			<string>3CA411F7-3D69-43DC-98DA-7F0A37464AD3</string>
-		</dict>
-		<key>5C34067B-501C-44E6-A0BB-A5554F9C4461</key>
-		<dict>
-			<key>auxiliaryLogUniqueIdentifier</key>
-			<string>031C278F-3A1E-41A1-B103-D90CBC86747F</string>
-			<key>auxiliaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>W</string>
-				<key>totalNumberOfAnalyzerIssues</key>
-				<integer>0</integer>
-				<key>totalNumberOfErrors</key>
-				<integer>0</integer>
-				<key>totalNumberOfTestFailures</key>
-				<integer>0</integer>
-				<key>totalNumberOfWarnings</key>
-				<integer>1</integer>
-			</dict>
-			<key>className</key>
-			<string>IDESchemeActionsInvocationRecord</string>
-			<key>documentTypeString</key>
-			<string>&lt;nil&gt;</string>
-			<key>domainType</key>
-			<string>com.apple.dt.IDE.LaunchSchemeAction</string>
-			<key>fileName</key>
-			<string>Run-Potts_square_magnetisation-2026.01.12_12-32-08-+0900.xcresult</string>
-			<key>hasAuxiliaryLog</key>
-			<true/>
-			<key>hasConsoleLog</key>
-			<true/>
-			<key>hasPrimaryLog</key>
-			<true/>
-			<key>primaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>W</string>
-				<key>totalNumberOfAnalyzerIssues</key>
-				<integer>0</integer>
-				<key>totalNumberOfErrors</key>
-				<integer>0</integer>
-				<key>totalNumberOfTestFailures</key>
-				<integer>0</integer>
-				<key>totalNumberOfWarnings</key>
-				<integer>1</integer>
-			</dict>
-			<key>schemeIdentifier-containerName</key>
-			<string>Potts_square_magnetisation project</string>
-			<key>schemeIdentifier-schemeName</key>
-			<string>Potts_square_magnetisation</string>
-			<key>schemeIdentifier-sharedScheme</key>
-			<integer>1</integer>
-			<key>signature</key>
-			<string>Run Potts_square_magnetisation</string>
-			<key>timeStartedRecording</key>
-			<real>789881528.65774298</real>
-			<key>timeStoppedRecording</key>
-			<real>0.0</real>
-			<key>title</key>
-			<string>Run Potts_square_magnetisation</string>
-			<key>uniqueIdentifier</key>
-			<string>5C34067B-501C-44E6-A0BB-A5554F9C4461</string>
-		</dict>
-		<key>AC3E743D-29CF-4C41-9587-90700EDFDA56</key>
-		<dict>
-			<key>auxiliaryLogUniqueIdentifier</key>
-			<string>F7EBE320-CEB5-45CA-B05E-C698BF8A6D53</string>
-			<key>auxiliaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>W</string>
-				<key>totalNumberOfAnalyzerIssues</key>
-				<integer>0</integer>
-				<key>totalNumberOfErrors</key>
-				<integer>0</integer>
-				<key>totalNumberOfTestFailures</key>
-				<integer>0</integer>
-				<key>totalNumberOfWarnings</key>
-				<integer>1</integer>
-			</dict>
-			<key>className</key>
-			<string>IDESchemeActionsInvocationRecord</string>
-			<key>documentTypeString</key>
-			<string>&lt;nil&gt;</string>
-			<key>domainType</key>
-			<string>com.apple.dt.IDE.LaunchSchemeAction</string>
-			<key>fileName</key>
-			<string>Run-Potts_square_magnetisation-2026.01.12_21-51-35-+0900.xcresult</string>
-			<key>hasAuxiliaryLog</key>
-			<true/>
-			<key>hasConsoleLog</key>
-			<true/>
-			<key>hasPrimaryLog</key>
-			<true/>
-			<key>primaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>W</string>
-				<key>totalNumberOfAnalyzerIssues</key>
-				<integer>0</integer>
-				<key>totalNumberOfErrors</key>
-				<integer>0</integer>
-				<key>totalNumberOfTestFailures</key>
-				<integer>0</integer>
-				<key>totalNumberOfWarnings</key>
-				<integer>1</integer>
-			</dict>
-			<key>schemeIdentifier-containerName</key>
-			<string>Potts_square_magnetisation project</string>
-			<key>schemeIdentifier-schemeName</key>
-			<string>Potts_square_magnetisation</string>
-			<key>schemeIdentifier-sharedScheme</key>
-			<integer>1</integer>
-			<key>signature</key>
-			<string>Run Potts_square_magnetisation</string>
-			<key>timeStartedRecording</key>
-			<real>789915095.13943696</real>
-			<key>timeStoppedRecording</key>
-			<real>0.0</real>
-			<key>title</key>
-			<string>Run Potts_square_magnetisation</string>
-			<key>uniqueIdentifier</key>
-			<string>AC3E743D-29CF-4C41-9587-90700EDFDA56</string>
-		</dict>
-		<key>CC911535-85F8-47B1-A9CC-D0FE12C6B5EC</key>
-		<dict>
-			<key>auxiliaryLogUniqueIdentifier</key>
-			<string>740D565A-D77F-43DB-8F87-B310B4B6DECD</string>
-			<key>auxiliaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>W</string>
-				<key>totalNumberOfAnalyzerIssues</key>
-				<integer>0</integer>
-				<key>totalNumberOfErrors</key>
-				<integer>0</integer>
-				<key>totalNumberOfTestFailures</key>
-				<integer>0</integer>
-				<key>totalNumberOfWarnings</key>
-				<integer>1</integer>
-			</dict>
-			<key>className</key>
-			<string>IDESchemeActionsInvocationRecord</string>
-			<key>documentTypeString</key>
-			<string>&lt;nil&gt;</string>
-			<key>domainType</key>
-			<string>com.apple.dt.IDE.LaunchSchemeAction</string>
-			<key>fileName</key>
-			<string>Run-Potts_square_magnetisation-2026.01.12_21-02-18-+0900.xcresult</string>
-			<key>hasAuxiliaryLog</key>
-			<true/>
-			<key>hasConsoleLog</key>
-			<true/>
-			<key>hasPrimaryLog</key>
-			<true/>
-			<key>primaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>W</string>
-				<key>totalNumberOfAnalyzerIssues</key>
-				<integer>0</integer>
-				<key>totalNumberOfErrors</key>
-				<integer>0</integer>
-				<key>totalNumberOfTestFailures</key>
-				<integer>0</integer>
-				<key>totalNumberOfWarnings</key>
-				<integer>1</integer>
-			</dict>
-			<key>schemeIdentifier-containerName</key>
-			<string>Potts_square_magnetisation project</string>
-			<key>schemeIdentifier-schemeName</key>
-			<string>Potts_square_magnetisation</string>
-			<key>schemeIdentifier-sharedScheme</key>
-			<integer>1</integer>
-			<key>signature</key>
-			<string>Run Potts_square_magnetisation</string>
-			<key>timeStartedRecording</key>
-			<real>789912138.30591798</real>
-			<key>timeStoppedRecording</key>
-			<real>0.0</real>
-			<key>title</key>
-			<string>Run Potts_square_magnetisation</string>
-			<key>uniqueIdentifier</key>
-			<string>CC911535-85F8-47B1-A9CC-D0FE12C6B5EC</string>
-		</dict>
-		<key>D9A138BA-A584-4AD1-88D0-E8D54F8A31A6</key>
-		<dict>
-			<key>auxiliaryLogUniqueIdentifier</key>
-			<string>4F9B7E3F-B613-4643-92B8-BC3428DF1E88</string>
-			<key>auxiliaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>W</string>
-				<key>totalNumberOfAnalyzerIssues</key>
-				<integer>0</integer>
-				<key>totalNumberOfErrors</key>
-				<integer>0</integer>
-				<key>totalNumberOfTestFailures</key>
-				<integer>0</integer>
-				<key>totalNumberOfWarnings</key>
-				<integer>1</integer>
-			</dict>
-			<key>className</key>
-			<string>IDESchemeActionsInvocationRecord</string>
-			<key>documentTypeString</key>
-			<string>&lt;nil&gt;</string>
-			<key>domainType</key>
-			<string>com.apple.dt.IDE.LaunchSchemeAction</string>
-			<key>fileName</key>
-			<string>Run-Potts_square_magnetisation-2026.01.11_14-28-56-+0900.xcresult</string>
-			<key>hasAuxiliaryLog</key>
-			<true/>
-			<key>hasConsoleLog</key>
-			<true/>
-			<key>hasPrimaryLog</key>
-			<true/>
-			<key>primaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>W</string>
-				<key>totalNumberOfAnalyzerIssues</key>
-				<integer>0</integer>
-				<key>totalNumberOfErrors</key>
-				<integer>0</integer>
-				<key>totalNumberOfTestFailures</key>
-				<integer>0</integer>
-				<key>totalNumberOfWarnings</key>
-				<integer>1</integer>
-			</dict>
-			<key>schemeIdentifier-containerName</key>
-			<string>Potts_square_magnetisation project</string>
-			<key>schemeIdentifier-schemeName</key>
-			<string>Potts_square_magnetisation</string>
-			<key>schemeIdentifier-sharedScheme</key>
-			<integer>1</integer>
-			<key>signature</key>
-			<string>Run Potts_square_magnetisation</string>
-			<key>timeStartedRecording</key>
-			<real>789802136.545941</real>
-			<key>timeStoppedRecording</key>
-			<real>0.0</real>
-			<key>title</key>
-			<string>Run Potts_square_magnetisation</string>
-			<key>uniqueIdentifier</key>
-			<string>D9A138BA-A584-4AD1-88D0-E8D54F8A31A6</string>
-		</dict>
-		<key>E8C53F64-6CB8-4619-BBD7-6346A02E806C</key>
-		<dict>
-			<key>auxiliaryLogUniqueIdentifier</key>
-			<string>1B37A3A5-4801-4EC5-852D-07CFB604621F</string>
-			<key>auxiliaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>W</string>
-				<key>totalNumberOfAnalyzerIssues</key>
-				<integer>0</integer>
-				<key>totalNumberOfErrors</key>
-				<integer>0</integer>
-				<key>totalNumberOfTestFailures</key>
-				<integer>0</integer>
-				<key>totalNumberOfWarnings</key>
-				<integer>1</integer>
-			</dict>
-			<key>className</key>
-			<string>IDESchemeActionsInvocationRecord</string>
-			<key>documentTypeString</key>
-			<string>&lt;nil&gt;</string>
-			<key>domainType</key>
-			<string>com.apple.dt.IDE.LaunchSchemeAction</string>
-			<key>fileName</key>
-			<string>Run-Potts_square_magnetisation-2026.01.12_19-04-19-+0900.xcresult</string>
-			<key>hasAuxiliaryLog</key>
-			<true/>
-			<key>hasConsoleLog</key>
-			<true/>
-			<key>hasPrimaryLog</key>
-			<true/>
-			<key>primaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>W</string>
-				<key>totalNumberOfAnalyzerIssues</key>
-				<integer>0</integer>
-				<key>totalNumberOfErrors</key>
-				<integer>0</integer>
-				<key>totalNumberOfTestFailures</key>
-				<integer>0</integer>
-				<key>totalNumberOfWarnings</key>
-				<integer>1</integer>
-			</dict>
-			<key>schemeIdentifier-containerName</key>
-			<string>Potts_square_magnetisation project</string>
-			<key>schemeIdentifier-schemeName</key>
-			<string>Potts_square_magnetisation</string>
-			<key>schemeIdentifier-sharedScheme</key>
-			<integer>1</integer>
-			<key>signature</key>
-			<string>Run Potts_square_magnetisation</string>
-			<key>timeStartedRecording</key>
-			<real>789905059.06294096</real>
-			<key>timeStoppedRecording</key>
-			<real>0.0</real>
-			<key>title</key>
-			<string>Run Potts_square_magnetisation</string>
-			<key>uniqueIdentifier</key>
-			<string>E8C53F64-6CB8-4619-BBD7-6346A02E806C</string>
-		</dict>
-		<key>EAAE0CBF-64B0-4641-A10F-5D97CDE0F2D7</key>
-		<dict>
-			<key>auxiliaryLogUniqueIdentifier</key>
-			<string>B12578B3-42D3-47EE-89A8-33208602BEFD</string>
-			<key>auxiliaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>W</string>
-				<key>totalNumberOfAnalyzerIssues</key>
-				<integer>0</integer>
-				<key>totalNumberOfErrors</key>
-				<integer>0</integer>
-				<key>totalNumberOfTestFailures</key>
-				<integer>0</integer>
-				<key>totalNumberOfWarnings</key>
-				<integer>1</integer>
-			</dict>
-			<key>className</key>
-			<string>IDESchemeActionsInvocationRecord</string>
-			<key>documentTypeString</key>
-			<string>&lt;nil&gt;</string>
-			<key>domainType</key>
-			<string>com.apple.dt.IDE.LaunchSchemeAction</string>
-			<key>fileName</key>
-			<string>Run-Potts_square_magnetisation-2026.01.12_21-39-29-+0900.xcresult</string>
-			<key>hasAuxiliaryLog</key>
-			<true/>
-			<key>hasConsoleLog</key>
-			<true/>
-			<key>hasPrimaryLog</key>
-			<true/>
-			<key>primaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>W</string>
-				<key>totalNumberOfAnalyzerIssues</key>
-				<integer>0</integer>
-				<key>totalNumberOfErrors</key>
-				<integer>0</integer>
-				<key>totalNumberOfTestFailures</key>
-				<integer>0</integer>
-				<key>totalNumberOfWarnings</key>
-				<integer>1</integer>
-			</dict>
-			<key>schemeIdentifier-containerName</key>
-			<string>Potts_square_magnetisation project</string>
-			<key>schemeIdentifier-schemeName</key>
-			<string>Potts_square_magnetisation</string>
-			<key>schemeIdentifier-sharedScheme</key>
-			<integer>1</integer>
-			<key>signature</key>
-			<string>Run Potts_square_magnetisation</string>
-			<key>timeStartedRecording</key>
-			<real>789914369.46251202</real>
-			<key>timeStoppedRecording</key>
-			<real>0.0</real>
-			<key>title</key>
-			<string>Run Potts_square_magnetisation</string>
-			<key>uniqueIdentifier</key>
-			<string>EAAE0CBF-64B0-4641-A10F-5D97CDE0F2D7</string>
+			<string>C6A7E75E-0B88-4B03-9AEA-F52B3A793152</string>
 		</dict>
 	</dict>
 </dict>
