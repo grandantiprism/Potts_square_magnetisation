@@ -1,1 +1,2 @@
-DerivedData/Potts_square_magnetisation/Build/Products/Debug/output_potts/
+DerivedData/Potts_square_magnetisation/Build/Products/Debug/output_potts/*
+!DerivedData/Potts_square_magnetisation/Build/Products/Debug/output_potts/analyse.py
